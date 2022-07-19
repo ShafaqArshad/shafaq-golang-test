@@ -9,5 +9,4 @@ scenarioCount: 4
 scenarios:
   - Understand Goroutines
   - Understanding Channels
-thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/go.png
 title: Concurrency in Go
