@@ -6,7 +6,6 @@ isNew: false
 isPremium: false
 license: Apache
 scenarioCount: 4
-state: approved
 scenarios:
   - Understand Goroutines
   - Understanding Channels
