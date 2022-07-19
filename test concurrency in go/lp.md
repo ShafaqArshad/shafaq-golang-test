@@ -8,5 +8,4 @@ license: Apache
 scenarioCount: 4
 scenarios:
   - Test Goroutines
-  - Test Go Channels
 title: Concurrency in Go
