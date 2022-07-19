@@ -7,6 +7,6 @@ isPremium: true
 license: Apache
 scenarioCount: 4
 scenarios:
-  - Understand Goroutines
-  - Understanding Channels
+  - Test Goroutines
+  - Test Go Channels
 title: Concurrency in Go
