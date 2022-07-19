@@ -1,7 +1,6 @@
 categories:
   - Golang
 description: Lets learn how to develop a concurrent application in Go language.
-isDraft: false
 isAvailable: true
 isNew: false
 isPremium: false
