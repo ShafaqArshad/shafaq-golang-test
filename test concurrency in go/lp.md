@@ -1,5 +1,5 @@
 categories:
-  - Golang
+  - docker
 description: Lets learn how to develop a concurrent application in Go language.
 isAvailable: true
 isNew: true
