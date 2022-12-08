@@ -5,7 +5,5 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 4
-scenarios:
-  - Test Goroutines
-title: Concurrency in Go
+scenarioCount: 0
+scenarios: []
