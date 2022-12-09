@@ -7,5 +7,5 @@ isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios: 
-  - New Git Scenario Test
+  - New Git Scenario Test 1
 title: Test Concurrency In Go
