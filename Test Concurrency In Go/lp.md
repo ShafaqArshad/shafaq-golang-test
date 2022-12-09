@@ -5,7 +5,6 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 1
-scenarios: 
-  - New Git Scenario Test 1
+scenarioCount: 0
+scenarios: []
 title: Test Concurrency In Go
